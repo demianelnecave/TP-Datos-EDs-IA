@@ -1,4 +1,4 @@
-El siguiente proyecto fue realizado en el marco de la materia Datos, Ecuaciones Diferenciales e Inteligencia Artificial dictada durante el 1° bimestre de 2026 por Facundo Sapienza. Aquí se encuentra el notebook donde se puede reproducir los experimentos realizados.
+El siguiente proyecto fue realizado en el marco de la materia Datos, Ecuaciones Diferenciales e Inteligencia Artificial dictada durante el 1° bimestre de 2026 por Facundo Sapienza. Aquí se encuentra el notebook donde se pueden reproducir los experimentos realizados.
 
 A continuación se tiene una descripción del proyecto en cuestión:
 
@@ -19,7 +19,7 @@ Buscamos, partiendo de una VAE entrenada sobre frames de videos sintéticos de a
 ‎
 - Aumentar la fluidez del video y predecir frames faltantes
 
-‎
+‎- Agustín Rabinowicz (@Agusraba)
 ‎- Averiguar si la NODE aprende la dinámica que subyace en el video, esto es si hay algún tipo de semejanza entre el espacio latente de trayectorias de embeddings y las trayectorias del sistema
 
 
