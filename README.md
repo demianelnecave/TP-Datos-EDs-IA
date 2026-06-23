@@ -14,9 +14,10 @@ Trayectorias del espacio latente de frames de videos de sistemas dinámicos a pa
 Buscamos, partiendo de una VAE entrenada sobre frames de videos sintéticos de algún sistema dinámico simple (resorte con damping, péndulo simple, pelota rebotando), calcular la trayectoria del espacio latente de los frames. 
 ‎
 ‎Con esto, intentamos usar esa trayectoria para:
-‎-Comparar los frames generados por la VAE con sus correspondientes de la trayectoria y debatir si pueden mejorar la performance del modelo 
+
+‎-Comparar los frames generados por la VAE con sus correspondientes de la trayectoria y debatir si pueden mejorar la performance del modelo. 
 ‎
-‎-Aumentar la fluidez del video y predecir frames faltantes
+‎-Aumentar la fluidez del video y predecir frames faltantes.
 ‎
 ‎-Averiguar si la NODE aprende la dinámica que subyace en el video, esto es si hay algún tipo de semejanza topológica entre el espacio latente de trayectorias de embeddings y las trayectorias del sistema.
 
