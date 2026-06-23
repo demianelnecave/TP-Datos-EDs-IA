@@ -17,9 +17,10 @@ Buscamos, partiendo de una VAE entrenada sobre frames de videos sintéticos de a
 
 - Comparar los frames generados por la VAE con sus correspondientes de la trayectoria y debatir si pueden mejorar la performance del modelo
 ‎
+‎- Agustín Rabinowicz (@Agusraba)
+
 - Aumentar la fluidez del video y predecir frames faltantes
 
-‎- Agustín Rabinowicz (@Agusraba)
 ‎- Averiguar si la NODE aprende la dinámica que subyace en el video, esto es si hay algún tipo de semejanza entre el espacio latente de trayectorias de embeddings y las trayectorias del sistema
 
 
