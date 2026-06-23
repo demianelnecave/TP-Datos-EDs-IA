@@ -1,4 +1,6 @@
-El siguiente proyecto fue realizado en el marco de la materia Datos, Ecuaciones Diferenciales e Inteligencia Artificial dictada durante el 1° bimestre de 2026 por Facundo Sapienza. Aquí se encuentra el notebook donde se puede reproducir los experimentos realizados. A continuación se tiene una descripción del proyecto en cuestión:
+El siguiente proyecto fue realizado en el marco de la materia Datos, Ecuaciones Diferenciales e Inteligencia Artificial dictada durante el 1° bimestre de 2026 por Facundo Sapienza. Aquí se encuentra el notebook donde se puede reproducir los experimentos realizados.
+
+A continuación se tiene una descripción del proyecto en cuestión:
 
 ## Título del proyecto
 Trayectorias del espacio latente de frames de videos de sistemas dinámicos a partir de una NODE
