@@ -1,1 +1,1 @@
-# Trayectorias-del-espacio-latente-de-frames-de-videos-de-sistemas-din-micos-a-partir-de-una-NODE
+# Trayectorias del espacio latente de frames de videos de sistemas dinámicos a partir de una NODE
