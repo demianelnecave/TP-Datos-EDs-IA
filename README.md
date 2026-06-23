@@ -22,6 +22,7 @@ Buscamos, partiendo de una VAE entrenada sobre frames de videos sintéticos de a
 ‎
 ‎- Averiguar si la NODE aprende la dinámica que subyace en el video, esto es si hay algún tipo de semejanza entre el espacio latente de trayectorias de embeddings y las trayectorias del sistema
 
+
 ## Dataset o problema a abordar
 
 Utilizaremos datasets sintéticos de videos de resolución fija y fondo negro de los sistemas dinámicos, sampleando de una distribución las condiciones iniciales. 
